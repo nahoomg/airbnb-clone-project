@@ -35,3 +35,39 @@ The following technologies will be utilized in the development of this project:
     * **RESTful APIs:** For communication between services.
     * **Unit & Integration Testing:** To ensure code quality and functionality.
     * **Docker:** For containerization (potential future integration).
+
+## Team Roles
+
+A successful software project requires a collaborative effort from various specialists, each contributing their expertise. For this Airbnb clone project, the key roles and their responsibilities include:
+
+* **Project Manager (PM):**
+    * **Description:** The Project Manager is responsible for overseeing the entire project lifecycle, ensuring it stays on track, within budget, and meets objectives.
+    * **Responsibilities:** Defines project scope, sets goals and objectives, creates project plans, manages resources, monitors progress, identifies and mitigates risks, facilitates communication between team members and stakeholders, and ensures timely delivery.
+
+* **Product Owner (PO) / Business Analyst (BA):**
+    * **Description:** Defines the product vision, prioritizes features, and ensures the development aligns with user and business needs. Often, a Business Analyst (BA) works closely with the PO to translate business requirements into technical specifications.
+    * **Responsibilities:** Gathers and analyzes requirements, defines user stories, manages the product backlog, prioritizes features based on business value, communicates requirements to the development team, and verifies that developed features meet acceptance criteria.
+
+* **UI/UX Designer:**
+    * **Description:** Focuses on creating an intuitive, aesthetically pleasing, and user-friendly interface for the application.
+    * **Responsibilities:** Conducts user research, creates wireframes and mockups, designs user flows, develops prototypes, ensures visual consistency, and works to optimize the overall user experience.
+
+* **Frontend Developer:**
+    * **Description:** Responsible for implementing the client-side of the application, focusing on everything the user directly interacts with in their web browser.
+    * **Responsibilities:** Develops the user interface using HTML, CSS, and JavaScript (and relevant frameworks), ensures responsive design across devices, integrates with backend APIs, optimizes for performance, and collaborates with UI/UX designers to bring designs to life.
+
+* **Backend Developer:**
+    * **Description:** Responsible for building and maintaining the server-side logic, databases, and APIs that power the application.
+    * **Responsibilities:** Designs and implements server-side logic (e.g., user authentication, property management, booking logic), develops RESTful APIs, interacts with databases to store and retrieve data, ensures data security and integrity, and optimizes backend performance.
+
+* **Database Administrator (DBA) / Database Engineer:**
+    * **Description:** Manages and maintains the project's databases, ensuring their efficiency, security, and reliability.
+    * **Responsibilities:** Designs and optimizes database schemas, implements and manages data storage solutions, ensures data integrity and consistency, performs database backups and recovery, monitors database performance, and manages user access and security.
+
+* **Quality Assurance (QA) Engineer:**
+    * **Description:** Ensures the quality, functionality, and reliability of the software by systematically testing it to identify bugs and ensure it meets specifications.
+    * **Responsibilities:** Develops test plans and test cases, executes various types of tests (functional, integration, regression, performance), identifies and reports bugs, works with developers to resolve issues, and ensures the overall quality of the delivered product.
+
+* **DevOps Engineer:**
+    * **Description:** Bridges the gap between development and operations, focusing on automating the software delivery process and maintaining the infrastructure.
+    * **Responsibilities:** Sets up and maintains CI/CD (Continuous Integration/Continuous Delivery) pipelines, manages cloud infrastructure, automates deployment processes, monitors application performance and health, implements logging and alerting, and ensures system reliability and scalability.
